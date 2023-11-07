@@ -15,7 +15,7 @@ Piet Mondrian composition created using CSS grid.
 <br>
 
 ## What have I learned?
-- CSS grid layout system,
+- CSS grid layout system
 <br>
 <br>
 
