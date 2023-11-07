@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/monikasleboda/Mondrian-painting"><img src="images/screenshot.png" alt="screenshot" height="100"></a>
+<a href="https://github.com/monikasleboda/Mondrian-painting"><img src="images/screenshot.png" alt="screenshot" height="200"></a>
 </p>
 
 <h1 align="center">Mondrian painting</h1>
